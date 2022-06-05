@@ -1,0 +1,18 @@
+ENOCA .NET CHALLENGE
+
+Asp.net Web Form, MVC veya Core kullanarak;
+Kullanıcı adı ve şifre ile giriş yapılabilen bir yönetim paneli hazırlayınız. Yönetim paneline giriş
+yapıldıktan sonra Öğrenci ekleme, güncelleme ve listeleme menüsü olsun.
+
+-Login ve Admin Paneli tasarımı için ücretsiz SBAdmin Kullanabilirsiniz.
+(https://startbootstrap.com/template/sb-admin)
+
+-Veritabanı Tabloları
+Kullanicilar
+Ogrenciler
+
+Notlar
+- Register olmayacak veritabanından bir kullanıcı ekleyebilirsiniz.
+- Projenizi bitirdikten sonra zoom üzerinden sunum yapmanız beklenecektir.
+- Öğrenciler için kayıt edilecek veriler: Ad, Soyad, Öğrenci No, Fakülte Adı, Bölüm Adı
+- İsteğinize göre kontrol ve eklemeler yapabilirsiniz.
