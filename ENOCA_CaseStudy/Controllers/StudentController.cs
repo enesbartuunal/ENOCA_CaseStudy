@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ENOCA_CaseStudy.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class StudentController : Controller
     {
         private readonly StudentManager _studentManager;
@@ -57,6 +57,7 @@ namespace ENOCA_CaseStudy.Controllers
             {
 
                 return View(e);
+
             }
             return View();
         }
